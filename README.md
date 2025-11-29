@@ -5,11 +5,11 @@ This repository contains the third assignment for the BIM493 Mobile Programming 
 ## Project Description
 
 A real-time messaging application developed with Flutter and Firebase, featuring:
-* **Real-time Messaging:** Users can send and receive messages instantly over the internet using **Firebase Firestore** backend[cite: 4, 5, 6].
+* **Real-time Messaging:** Users can send and receive messages instantly over the internet using **Firebase Firestore** backend.
 * **Cloud Storage:** Messages are stored in the cloud rather than local device memory, ensuring data persistence.
 * **Live Updates:** Uses `StreamBuilder` to listen to database changes and update the UI immediately when a new message arrives.
 * **Timestamp Sorting:** Messages are ordered chronologically (newest at the bottom) using server-side timestamps.
-* **User Interface:** Clean interface with a text input field and a scrollable list of messages, based on the `Week08_CommentList` example[cite: 3].
+* **User Interface:** Clean interface with a text input field and a scrollable list of messages, based on the `Week08_CommentList` example.
 
 ## Group Members
 
