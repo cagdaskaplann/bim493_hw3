@@ -49,5 +49,3 @@ app.*.map.json
 /Windows/
 /macOS/
 /web/
-
-/android/app/google-services.json
